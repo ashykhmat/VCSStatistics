@@ -24,7 +24,7 @@ In IDE import project as existing Maven project. IDE will load automatically all
 
 ## Run Console application
 
-To run jMetrics as a console application, after it was built, run the following command
+To run VCSStatistics as a console application, after it was built, run the following command
 `java -jar vcsstatistics/target/vcsstatistics-1.0-SNAPSHOT.jar -projectPath PATH_TO_PROJECT -reportPath PATH_TO_REPORT -vcs GIT -dateFrom yyyy-MM-dd -dateTo yyyy-MM-dd`
 
 Parameter | Description | Is Required | Example Value |
