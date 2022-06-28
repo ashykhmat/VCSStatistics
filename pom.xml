@@ -13,7 +13,7 @@
 		<java.version>1.8</java.version>
 		<slf4j.version>1.7.25</slf4j.version>
 		<log4j.version>2.10.0</log4j.version>
-		<poi.version>3.17</poi.version>
+		<poi.version>4.1.1</poi.version>
 		<jgit.version>4.11.0.201803080745-r</jgit.version>
 		<guava.version>23.0</guava.version>
 	</properties>
